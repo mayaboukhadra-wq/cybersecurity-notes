@@ -11,5 +11,5 @@
 
 ## What I learned 
 - Hackers are not always bad - ethical hackers help companies 
-- SOC Analyst monitors the system and responds to attacks 
+- A SOC Analyst monitors the system and responds to attacks 
 - The goal of cybersecurity = protect data and systems 
