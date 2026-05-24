@@ -31,3 +31,7 @@ tar -czvf backup_tar.gz test_hash.txt secret.txt
 rm secret.txt test_hash.txt
 ls -l
 tar -xzvf backup_tar.gz
+
+## Lab Proof 
+![Kali Linux CIA Triad Lab](cia-triad-terminal.png)
+
