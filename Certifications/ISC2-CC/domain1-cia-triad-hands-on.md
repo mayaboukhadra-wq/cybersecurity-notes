@@ -4,7 +4,7 @@ This lab demonstrates the practical application of **Confidentiality**, **Integr
 
 ---
 
-## Full Terminal Execution 
+## 💻 Full Terminal Execution 
 
 ```bash
 # [1] Integrity Tasks: Checking and modifying file hashes
@@ -23,8 +23,6 @@ md5sum test_hash.txt
 echo "This is a secret password: maya2026" > secret.txt
 gpg -c secret.txt
 cat secret.txt
-gpg -c secret.txt
-cat secret.txt
 
 # [3] Availability Tasks: Backing up and restoring data
 tar -czvf backup_tar.gz test_hash.txt secret.txt
@@ -32,6 +30,6 @@ rm secret.txt test_hash.txt
 ls -l
 tar -xzvf backup_tar.gz
 
-## Lab Proof 
-![Kali Linux CIA Triad Lab](cia-triad-terminal.png)
+```
 
+![Kali Linux CIA Triad Lab](cia-triad-terminal.png)
