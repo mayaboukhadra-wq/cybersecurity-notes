@@ -42,6 +42,8 @@ The server's response to the client contains:
 
 I used `curl` in my Kali Linux terminal to inspect actual HTTP headers from live servers.
 
+![Curl Lab Output](curl-google-httpbin.png)
+
 ### Task 1: Inspecting Response Headers Only
 Command used:
 ```bash
