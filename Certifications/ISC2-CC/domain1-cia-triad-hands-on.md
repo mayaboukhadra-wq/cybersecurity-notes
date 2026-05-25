@@ -33,5 +33,5 @@ ls -l
 tar -xzvf backup_tar.gz
 
 ## Lab Proof 
-[Kali Linux CIA Triad Lab](cia-triad-terminal.png)
+![Kali Linux CIA Triad Lab](cia-triad-terminal.png)
 
